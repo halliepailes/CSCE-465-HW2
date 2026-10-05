@@ -38,5 +38,5 @@ Task 4's adversarial tests are located inside the `tests/` directory inside the 
 To run all 6 adversarial security tests back-to-back, execute the following command from the root folder:
 
 ```bash
-python3 tests/test_security.py
+python3 tests/adversarial_tests.py
 ```
