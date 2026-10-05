@@ -1,3 +1,4 @@
+# This is a copy of secure_record.py to make importing easier within the tests file!!
 import os
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives import hashes, hmac
